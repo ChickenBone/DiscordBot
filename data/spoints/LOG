@@ -1,0 +1,14 @@
+2019/04/06-23:55:11.367 4f5c Recovering log #2182
+2019/04/06-23:55:11.368 4f5c Level-0 table #2184: started
+2019/04/06-23:55:11.982 4f5c Level-0 table #2184: 1265 bytes OK
+2019/04/06-23:55:12.464 4f5c Delete type=0 #2182
+2019/04/06-23:55:12.464 4f5c Delete type=3 #2180
+2019/04/06-23:55:12.632 f4c Compacting 4@0 + 1@1 files
+2019/04/06-23:55:12.665 f4c Generated table #2186@0: 46 keys, 1265 bytes
+2019/04/06-23:55:12.665 f4c Compacted 4@0 + 1@1 files => 1265 bytes
+2019/04/06-23:55:12.738 f4c compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/04/06-23:55:12.739 f4c Delete type=2 #2173
+2019/04/06-23:55:12.739 f4c Delete type=2 #2175
+2019/04/06-23:55:12.739 f4c Delete type=2 #2178
+2019/04/06-23:55:12.740 f4c Delete type=2 #2181
+2019/04/06-23:55:12.740 f4c Delete type=2 #2184
